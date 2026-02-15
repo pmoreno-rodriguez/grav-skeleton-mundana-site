@@ -1,0 +1,14 @@
+name: Mundana Site
+version: 1.0.0
+description: "The **Mundana Skeleton** based on Mundana theme that provides you with sample blog content and plugins including: **Archives**, **Random**, **Readingtime**, **Related Pages**, **Pagination**, **Breadcrumbs**, **Taxonomy List** and more."
+icon: comments
+author:
+  name: Pedro Moreno
+  email: pmoreno@pmdesign.dev
+  url: https://pmdesign.dev
+homepage: https://github.com/pmoreno-rodriguez/grav-skeleton-mundana-site
+demo: https://mundana.pmdesign.dev/
+keywords: blog, mundana, skeleton, readingtime, random, pagination, breadcrumbs, taxonomy, archives, relatedpages
+bugs: https://github.com/pmoreno-rodriguez/grav-skeleton-mundana-site/issues
+readme: https://github.com/pmoreno-rodriguez/grav-skeleton-mundana-site/blob/main/README.md
+license: MIT
